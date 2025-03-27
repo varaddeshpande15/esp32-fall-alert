@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#alertContainer {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background: #f9f9f9;
+}
